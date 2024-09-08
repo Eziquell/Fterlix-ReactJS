@@ -1,0 +1,33 @@
+.backGround {
+    background-color: #080808;
+    height: 100vh;
+}
+
+.intro {
+  height: 250px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.titleBrand {
+  font-size: 36px;
+  font-weight: 800;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+.trending {
+  height: auto;
+  background-color: #080808;
+}
+
+.superhero {
+  height: 100vh;
+  background-color: #080808;
+}
